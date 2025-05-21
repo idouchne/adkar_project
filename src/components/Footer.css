@@ -1,0 +1,25 @@
+.site-footer {
+  background-color: #003D32;
+  color: #F5E9D5;
+  padding: 1.5rem;
+  text-align: center;
+}
+
+.site-footer a {
+  color: #F5E9D5;
+  text-decoration: none;
+  margin: 0 8px;
+}
+
+.site-footer.dark {
+  background-color: #F5E9D5;
+  color: #F5E9D5;
+}
+
+.site-footer.dark a {
+  color: #003D32;
+}
+.site-footer.dark p {
+    color: #003D32;
+    
+}
